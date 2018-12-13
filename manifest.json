@@ -1,0 +1,6 @@
+{
+    "name": "chromeclock",
+    "version": "0.1",
+    "description": "Siple clock for chrome",
+    "manifest_version": 2
+  }
