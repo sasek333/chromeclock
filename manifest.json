@@ -1,6 +1,12 @@
 {
     "name": "chromeclock",
     "version": "0.1",
-    "description": "Siple clock for chrome",
-    "manifest_version": 2
+    "description": "Siple clock for Chrome",
+    "manifest_version": 2,
+    "author": "Andrzej Saski",
+    "permissions": ["storage"],
+    "browser_action": {},
+    "background": {
+        "scripts": ["background.js"]
+      }
   }
